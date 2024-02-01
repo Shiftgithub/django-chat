@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     # custom app
     'chat',
     'corsheaders',
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
